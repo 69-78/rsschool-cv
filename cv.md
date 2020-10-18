@@ -41,5 +41,5 @@ Year of Completion | Name and Location of School | Specialty
 2000 | Belarusian State University, Minsk, Belarus | International Relations Department, International Lawyer, Interpreter of English and German
 2018 | IBA Institute of IT and BA, Minsk, Belarus | Software Developer (not-completed)
 
-**8. English:**  2000 - Professional diploma of the interpreter from the Belarusian State University, 1998 - study in the USA university, prolonged work experience with English native-speaking individuals, support personal communications;
+**8. English:**  2000 - Professional diploma of the interpreter from the Belarusian State University, 1998 - study in the USA university, prolonged work experience with English native-speaking individuals, personal communications;
 
