@@ -2,11 +2,11 @@
 
 **1. First Name, Last Name:**  Yulia Khinova
 
-**2. Contact info:**  +375 29 675 80 13, yuliatrukhan@gmail.com;
+**2. Contact info:**  +375 29 675 80 13, yuliatrukhan@gmail.com
 
-**3. Summary:**  Like-minded people and progressive teams are my goal.  As a person with hybrid skills, strong educational background, and eagerness for success I will be able to contribute greatly to IT environment beginning as Junior Developer with plans for further progress.
+**3. Summary:**  Like-minded people and progressive teams are my goal.  As a person with hybrid skills, strong educational background, and eagerness for success I will be able to contribute greatly to IT environment beginning as Junior Developer with plans for further progress
 
-**4. Skills:**  Mastering Front-end Development skills, HTML, CSS, JS, IDE;
+**4. Skills:**  Mastering Front-end Development skills, HTML, CSS, JS, IDE
 
 **5. Code examples:**  
 ```javascript
