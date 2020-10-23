@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(201, 201, 143);
+    border: 10px solid whitesmoke);
+}
+
+h1{
+    text-size-adjust: 200%;
+    font-weight: bold;
+}
+
+img{
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+#img-caption{
+    font-style: italic;
+    margin-bottom: 2em;
+}
+
+#tribute-info{
+    font-weight: bold;
+    line-height: 2em;
+}
+
+#tribute-info[data-caption="Omar Khayyam"]{
+    font-size: 150%;
+    font-style: underline;
+}
+
+a{
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+  }
+
