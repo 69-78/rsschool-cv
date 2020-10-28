@@ -9,6 +9,7 @@
 **4. Skills:**  Mastering Front-end Development skills, HTML, CSS, JS, IDE
 
 **5. Code examples:**  
+
 ```javascript
   const getTypeOfSentence = (sentence) => {
   const lastChar = sentence[sentence.length - 1];
