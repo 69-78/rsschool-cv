@@ -1,15 +1,15 @@
 div {
-  border: 5px solid rgb(92, 7, 7);
+  border: 5px solid #5c0707;
   width: 1024px;
   padding: 0 20px;
   margin: auto;
-  background-color: linen;
+  background-color: #faf0e6;
 }
 
 h1 {
   text-align: center;
   text-decoration: underline;
-  color: rgb(119, 6, 29);
+  color: #77061d;
   font-size: 36px;
 }
 
@@ -22,15 +22,15 @@ ol > li {
 }
 
 a:visited {
-  color: purple;
+  color: #800080;
 }
 
 a {
-  color: blue;
+  color: #0000ff;
 }
 
 table {
-  border: 2px solid black;
+  border: 2px solid #000000;
   width: 95%;
 }
 
@@ -38,30 +38,36 @@ thead {
   text-align: center;
   border-spacing: 0;
   border-collapse: collapse;
-  background-color: gray;
+  background-color: #808080;
 }
 
 thead,
 td,
 th {
-  border: 1px solid black;
+  border: 1px solid #000000;
 }
 
 thead:first-child {
-  background-color: rgb(189, 156, 156);
+  background-color: #8d7575;
 }
 
 tr {
-  cell-color: whitesmoke;
+  background-color: #f5f5f5;
 }
 
 table td:first-child {
   text-align: center;
 }
 
-@media screen and (max width 600px) {
+@media screen and (max-width: 600px) {
   div {
     width: 600px;
     table-layout: auto;
   }
+}
+
+.photo {
+  height: 250px;
+  float: right;
+  margin: 5px;
 }
